@@ -1,0 +1,6 @@
+For further information, please have a look at the slides of the Workshop
+
+Interval Methods for Reliable Modeling, Identification and Control of Dynamic Systems at the European Control Conference 2015, Linz, Austria
+
+that are available on:
+https://www.interval-methods.de/seminars
